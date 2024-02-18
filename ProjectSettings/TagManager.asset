@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Bullet
+  - Bomb
+  - Enemy
+  - Trigger
+  - Finish 1
+  - Follow
+  - Finish 2
+  - Restart
+  - Finish 3
+  - Finish 4
+  - Finish 5
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - NoCollisions
+  - Water
+  - UI
+  - Ground
+  - Shot
+  - Player
+  - Enemy
+  - BackGround
+  - Trigger
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BackGround
+    uniqueID: 3142972395
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 4145198565
+    locked: 0
+  - name: Enemy
+    uniqueID: 1950836929
+    locked: 0
+  - name: Bullet
+    uniqueID: 379884401
+    locked: 0
